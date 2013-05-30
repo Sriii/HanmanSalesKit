@@ -10,4 +10,8 @@ PLEASE READ!!!!
 
 - Please use images with width betweeen 150px-170px for grid pages
 - Please do not change the sizes of width and height of the table cells
+<<<<<<< HEAD
 - Use the same font type and colour (including bold/underlined/italic)
+=======
+- Use the same font type and colour (including bold/underlined/italic)
+>>>>>>> origin/Sri's-branch
