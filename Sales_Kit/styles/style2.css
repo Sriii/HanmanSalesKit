@@ -2,9 +2,9 @@
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 0.8em;
-	background-color: #f2f2f7;
+	background-color: #ffffff;
 	background-image: url("../images/background.gif");
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-attachment: scroll;
 }
 #container {
