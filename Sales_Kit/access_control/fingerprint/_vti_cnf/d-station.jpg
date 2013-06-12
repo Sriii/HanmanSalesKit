@@ -1,10 +1,30 @@
 vti_encoding:SR|utf8-nl
-vti_timelastmodified:TR|05 Jun 2013 02:00:18 -0000
+<<<<<<< HEAD
+vti_timelastmodified:TR|10 Jun 2013 01:52:59 -0000
 vti_author:SR|Sri-Acer\\Sri
-vti_modifiedby:SR|Sri-Acer\\Sri
+vti_modifiedby:SR|TeoHuei-PC\\Teo Huei
+=======
+<<<<<<< HEAD
+vti_timelastmodified:TR|05 Jun 2013 02:00:18 -0000
+=======
+vti_timelastmodified:TR|03 Jun 2013 01:54:30 -0000
+>>>>>>> Hasan's-branch
+vti_author:SR|Sri-Acer\\Sri
+vti_modifiedby:SR|ADMIN01\\Compaq_Owner
+>>>>>>> master
 vti_nexttolasttimemodified:TW|29 May 2013 12:43:01 -0000
 vti_timecreated:TR|29 May 2013 12:44:34 -0000
-vti_extenderversion:SR|12.0.0.6211
+vti_extenderversion:SR|12.0.0.4518
 vti_backlinkinfo:VX|Sales_Kit/access_control/fingerprint/fingerprint.htm Sales_Kit/access_control/card/D-Station/D-Station.htm Sales_Kit/access_control/fingerprint/D-Station/d-station.htm
+<<<<<<< HEAD
+vti_cacheddtm:TX|10 Jun 2013 01:52:59 -0000
+=======
+<<<<<<< HEAD
 vti_cacheddtm:TX|05 Jun 2013 02:00:18 -0000
+=======
+vti_cacheddtm:TX|03 Jun 2013 01:54:30 -0000
+>>>>>>> Hasan's-branch
+>>>>>>> master
 vti_filesize:IR|300709
+vti_syncwith_localhost\\j\:\\sales_kit/j\:/sales_kit:TX|03 Jun 2013 01:54:30 -0000
+vti_syncofs_localhost\\j\:\\sales_kit/j\:/sales_kit:TW|10 Jun 2013 06:57:04 -0000
