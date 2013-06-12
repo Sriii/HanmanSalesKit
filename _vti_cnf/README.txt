@@ -8,3 +8,5 @@ vti_nexttolasttimemodified:TW|31 May 2013 10:02:08 -0000
 vti_timecreated:TR|01 Jun 2013 02:20:40 -0000
 vti_cacheddtm:TX|01 Jun 2013 02:20:40 -0000
 vti_filesize:IR|637
+vti_syncwith_localhost\\j\:\\sales_kit/j\:/sales_kit:TX|01 Jun 2013 02:20:40 -0000
+vti_syncofs_localhost\\j\:\\sales_kit/j\:/sales_kit:TW|10 Jun 2013 06:56:14 -0000
