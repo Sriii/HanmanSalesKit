@@ -8,12 +8,12 @@ body {
 	background-attachment: scroll;
 }
 #container {
-	width: 700px;
+	width: 800px;
 	margin: 10px auto;
 }
 #masthead {
 	text-align: center;
-	width: 698px;
+	width: 798px;
 	border-top: 1px solid #dcdcdc;
 	border-right: 1px solid #a9a9a9;
 	border-bottom: 1px solid #808080;
@@ -48,7 +48,7 @@ body {
 
 #content {
 	float: left;
-	width: 518px;
+	width: 618px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: 10px;
@@ -62,7 +62,7 @@ body {
 #footer {
 	text-align: center;
 	clear: both;
-	width: 698px;
+	width: 798px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	border-top: 1px solid #dcdcdc;
@@ -115,6 +115,7 @@ body {
 	display: block;
 	margin: 0;
 	padding: 0;
+	font-size:0.5em;
 }
 #navigation2 li {
 	display: block;
@@ -122,6 +123,7 @@ body {
 	padding: 0;
 	border: 1px solid #fff;
 	background-color: #fff;
+	font-size:0.8em;
 }
 #navigation2 a {
 	color: #3d6c87;
@@ -130,12 +132,14 @@ body {
 	padding: 5px;
 	border: 1px solid #fff;
 	background-color: #fff;
+	font-size:0.8em;
 }
 #navigation2 a:hover {
 	color: #fff;
 	text-decoration: none;
 	border: 1px solid #5f8ea9;
 	background-color: #5f8ea9;
+	font-size:0.8em;
 }
 
 
