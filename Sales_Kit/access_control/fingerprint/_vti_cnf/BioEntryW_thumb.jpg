@@ -1,12 +1,24 @@
 vti_encoding:SR|utf8-nl
+<<<<<<< HEAD
 vti_timelastmodified:TR|18 Jul 2013 03:30:03 -0000
+=======
+vti_timelastmodified:TR|18 Jul 2013 03:15:21 -0000
+>>>>>>> Hasan's-branch
 vti_author:SR|Sri-Acer\\Sri
-vti_modifiedby:SR|idea-PC\\Marc
+vti_modifiedby:SR|HasansPC\\Hasan
 vti_nexttolasttimemodified:TW|29 May 2013 12:54:24 -0000
 vti_timecreated:TR|29 May 2013 12:58:36 -0000
+<<<<<<< HEAD
 vti_extenderversion:SR|12.0.0.6211
 vti_backlinkinfo:VX|
 vti_syncwith_localhost\\j\:\\sales_kit/j\:/sales_kit:TX|03 Jun 2013 01:54:27 -0000
 vti_syncofs_localhost\\j\:\\sales_kit/j\:/sales_kit:TW|10 Jun 2013 06:57:02 -0000
 vti_cacheddtm:TX|18 Jul 2013 03:30:03 -0000
+=======
+vti_extenderversion:SR|12.0.0.4518
+vti_backlinkinfo:VX|Sales_Kit/access_control/fingerprint/fingerprint.htm
+vti_syncwith_localhost\\j\:\\sales_kit/j\:/sales_kit:TX|03 Jun 2013 01:54:27 -0000
+vti_syncofs_localhost\\j\:\\sales_kit/j\:/sales_kit:TW|10 Jun 2013 06:57:02 -0000
+vti_cacheddtm:TX|18 Jul 2013 03:15:21 -0000
+>>>>>>> Hasan's-branch
 vti_filesize:IR|29523
