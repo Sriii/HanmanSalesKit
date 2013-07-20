@@ -1,6 +1,3 @@
-Last updated and merged: 12/6/13 12:20PM
----------------
-
 Hanman Sales Kit
 ==========
 
