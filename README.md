@@ -1,5 +1,6 @@
-Last updated and merged: 25/7/13 10:30AM
----------------
+COMPLETED ON 25 JULY 2013
+-------------------------
+
 
 Hanman Sales Kit
 ==========
